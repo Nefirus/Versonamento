@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 10;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
